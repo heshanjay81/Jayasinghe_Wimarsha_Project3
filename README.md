@@ -1,6 +1,6 @@
 # Scaffold HW2
 
-This is a HTML JS CSS Project
+This is a HTML JS CSS Project. Contains the Grid Scaffold Project for MMED 1056 - Web Development
 
 ## Installation
 
